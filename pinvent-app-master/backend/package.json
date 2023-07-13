@@ -5,9 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "backend": "nodemon server.js",
-    "build": "npm i"
-  },
+    "backend": "nodemon server.js"  },
   "keywords": [],
   "author": "",
   "license": "ISC",
