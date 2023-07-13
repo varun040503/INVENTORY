@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6549e8d5.css",
+    "main.js": "/static/js/main.6333f39f.js",
+    "static/media/about.jpg": "/static/media/about.4881195f04fc2ca0f1da.jpg",
+    "static/media/intvph.PNG": "/static/media/intvph.7e5e565b7c5f39d51639.PNG",
+    "static/media/p1.jpg": "/static/media/p1.e65da9f2d2c2dbada509.jpg",
+    "index.html": "/index.html",
+    "main.6549e8d5.css.map": "/static/css/main.6549e8d5.css.map",
+    "main.6333f39f.js.map": "/static/js/main.6333f39f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6549e8d5.css",
+    "static/js/main.6333f39f.js"
+  ]
+}
